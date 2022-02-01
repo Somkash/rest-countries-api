@@ -82,7 +82,7 @@ My Next target will be to develop same projct with react js
 ## Author
 
 - Website - [Som Kash](comming Soon)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Somkash)
+- Frontend Mentor - [@@Somkash](https://www.frontendmentor.io/profile/Somkash)
 - Twitter - [@som_codes](https://twitter.com/som_codes)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
