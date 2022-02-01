@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Where in the World</title>
+    <link rel="stylesheet" href= 
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+      
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Where in the World?</div>
+    </header>
+
+    <div class="main">
+        <div class="search">
+            <div class="search-by-name">
+                <i class="fa fa-search fa-lg"></i>
+                <input type="text" id ="search" placeholder="Search for a country ">
+            </div>
+            <select id="filter" name="filter" class="filter" size="0" >
+                "" disabled selected
+                <option value="" disabled selected hidden>Filter by Region</option>
+                <option value="Africa">Africa</option>
+                <option value="Asia">Asia</option>
+                <option value="Americas">Americas</option>
+                <option value="Europe">Europe</option>
+                <option value="Oceania">Oceania</option>
+            </select>
+        </div>
+        <div id="main-container" class="main-container">
+            <!-- content wil be added here  -->
+        </div>
+    </div>
+
+    <script src = "script.js"></script>
+</body>
+</html>
